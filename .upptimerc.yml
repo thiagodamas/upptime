@@ -2,7 +2,7 @@
 owner: vetorial-labs # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 # se descomentar, da erro no action na parte de gerar template
-# runner: "[self-hosted, Linux]"
+runner: "[self-hosted, Linux]"
 
 sites:
   - name: Site da Vetorial
