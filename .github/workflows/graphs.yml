@@ -17,7 +17,7 @@ on:
 jobs:
   release:
     name: Generate graphs
-    runs-on: [self-hosted, Linux]
+    runs-on: [self-hosted, Linux, X64]
     steps:
       - name: Checkout
         uses: actions/checkout@v3
