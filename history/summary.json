@@ -58,18 +58,20 @@
     "url": "https://erp.vetorial.com/mk/",
     "icon": "https://icons.duckduckgo.com/ip3/erp.vetorial.com.ico",
     "slug": "mk-vetorial",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 22,
-    "timeWeek": 269,
-    "timeMonth": 568,
-    "timeYear": 568,
-    "dailyMinutesDown": {}
+    "time": 538,
+    "timeDay": 20,
+    "timeWeek": 250,
+    "timeMonth": 538,
+    "timeYear": 538,
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "MK Bitcom",
