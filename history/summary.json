@@ -98,19 +98,19 @@
     "url": "http://mk.razaoinfo.net.br/mk/",
     "icon": "https://icons.duckduckgo.com/ip3/mk.razaoinfo.net.br.ico",
     "slug": "mk-razao",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 34,
-    "timeWeek": 41,
-    "timeMonth": 132,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 219,
+    "timeDay": 53,
+    "timeWeek": 47,
+    "timeMonth": 131,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 15
     }
   }
 ]
